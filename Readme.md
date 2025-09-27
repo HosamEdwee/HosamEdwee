@@ -116,13 +116,6 @@ Generative framework for causal hypothesis and DAG discovery using **LLMs** for 
 
 ---
 
-## 📈 GitHub Stats
-
-![Hossam's GitHub stats](https://github-readme-stats.vercel.app/api?username=HosamEdwee&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HosamEdwee&layout=compact&theme=radical)
-
----
 
 ## 📝 Latest Blog Posts
 
