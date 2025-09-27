@@ -63,13 +63,7 @@ Beyond my technical contributions, I'm passionate about knowledge sharing throug
 
 ## 💼 Professional Experience
 
-### 🔬 Quantitative Researcher | WorldQuant (2022-2023)
-*Part-Time Consultant - Remote*
 
-- Researched and implemented quantitative trading signals (alphas) for global equity markets
-- Applied advanced ML/DL and time-series analysis to vast market datasets
-- Optimized signals for Sharpe ratio, turnover, and decay metrics
-- Engineered diversified, uncorrelated alpha strategies
 
 ### 🔬 Quantitative Researcher | Causeway Capital (2020-2022)
 *Part-Time Consultant - US Remote*
