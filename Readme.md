@@ -66,14 +66,14 @@ Beyond my technical contributions, I'm passionate about knowledge sharing throug
 
 
 ### 🔬 Quantitative Researcher | Causeway Capital (2020-2022)
-*Part-Time Consultant - US Remote*
+* US Remote*
 
 - Designed Deep Reinforcement Learning trading strategies
 - Developed AI-driven strategies combining financial engineering and ML
 - Deployed large-scale neural network training on cloud GPU clusters
 
 ### 📊 Data Scientist | Emaar (2016-2020)
-*Dubai, UAE*
+
 
 - **CLV Prediction**: Built customer lifetime value models boosting conversion rates by **15%**
 - **Dynamic Pricing**: Created XGBoost pricing engine achieving **5-7% uplift** in sale prices
