@@ -13,7 +13,7 @@
 
 ## 💼 Professional Summary
 
-Senior Data Scientist with **10 years of experience** leading the complete lifecycle of data science initiatives within the finance sector. I specialize in leveraging advanced machine/deep learning to extract actionable insights from complex financial data, with a proven track record in developing models for market prediction and risk analysis.
+Senior Data Scientist with **5 years of experience** leading the complete lifecycle of data science initiatives within the finance sector. I specialize in leveraging advanced machine/deep learning to extract actionable insights from complex financial data, with a proven track record in developing models for market prediction and risk analysis.
 
 Beyond my technical contributions, I'm passionate about knowledge sharing through Medium articles and internal tutorials. I uniquely manage projects from concept to completion, including building data pipelines and deploying continuous monitoring frameworks for long-term production success.
 
